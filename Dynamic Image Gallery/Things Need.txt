@@ -1,0 +1,15 @@
+1. What data do I need?
+image ( do you need both thumbnail/full size?)
+caption (every image has a caption) 
+
+2. How do I organize the…
+images with their captions? (which caption belongs to which image) 
+
+3. What elements do I need for the...
+gallery? (how my gallery will look like?)
+lightbox? (how to achieve this effect?) 
+
+4. How do I match images with the captions?
+The image shows up, the correct caption shows up. 
+5. How many lightboxes do I need?
+5 images means I need 5 lightboxes?
